@@ -7,6 +7,7 @@
   - [Tools and Techniques Utilized](#tools-and-techniques-utilized)
   - [Specific Results and Outcomes](#specific-results-and-outcomes)
   - [What I Have Learned From This Project](#what-i-have-learned-from-this-project)
+  - [How to Use this Repository](#how-to-use-this-repository)
 
 [Back to Top](#)
 
@@ -69,3 +70,18 @@ This project aimed to create a predictive model to estimate the additional profi
 - **Model Integration:** Gained experience in embedding predictive models into business processes, ensuring ongoing relevance and value for stakeholders.
 
 [Back to Top](#predicting-savings-from-loyalty-programs)
+
+
+## How to Use this Repository
+
+1. Clone the Repository git clone https://github.com/realdanizilla/Loyalty-Savings.git
+
+2. Open the main Excel File and start at sheet "Premises" to understand basic model premises
+   
+3. Analyse "Model" to understand the basic data and how model is applied to each month
+
+4. Visualize actual and projected data related to loyalty customers
+
+5. Change parameters in the "Saving Parameters" section to change how the model works
+
+[Back to Top](#)
